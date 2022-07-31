@@ -5,10 +5,11 @@ module.exports = {
       name: `Brian Flores`,
       summary: `who lives.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My personal blog.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `floanterr`,
+      instagram: `tugatitofa`,
     },
   },
   plugins: [
